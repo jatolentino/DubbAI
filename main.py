@@ -12,6 +12,7 @@ from tqdm import tqdm
 import tempfile
 import re
 
+
 spacy_models = {
     "english": "en_core_web_sm",
     "german": "de_core_news_sm",
